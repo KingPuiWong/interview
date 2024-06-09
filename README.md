@@ -1,1 +1,57 @@
 # interview
+
+##  go 语言基础
+
+书本
+
+- Go 语言设计与实现
+
+视频
+
+- bilibili - **幼麟实验室**
+
+常见面试题
+
+- 谈一下 Go 的 GC 机制
+- 说下三色标记法算法的原理
+- rpc 的具体实现
+- go 的 mutx 怎么使用，乐观锁和悲观锁怎么实现，使用场景是什么？
+- channel/ map/ slice 底层实现 / pool/ context
+- [GMP 模型](https://kiosk007.top/post/golang-gmp/)
+- GO 启动顺序
+
+博客：
+
+- [与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)](https://colobu.com/2022/09/06/string-byte-convertion/)
+
+## myql
+
+课程
+
+- 极客时间 - MySQL 实战 45 讲
+
+## redis
+
+课程
+
+- 极客时间 - redis 实战
+
+## MQ
+
+博客
+
+- [Docs (feishu.cn)](https://w8f48xv1h6.feishu.cn/wiki/wikcnAJFKENsXWuBOgvgicTOEhc)
+
+
+## 网络
+
+博客
+
+- [小林coding (xiaolincoding.com)](https://www.xiaolincoding.com/)
+
+书本
+
+- 计算机网络 -自顶向下方法
+## 算法
+
+[代码随想录](https://programmercarl.com/)
