@@ -28,13 +28,13 @@
 
 课程
 
-- 极客时间 - MySQL 实战 45 讲
+- 极客时间 - [01 | 基础架构：一条SQL查询语句是如何执行的？-MySQL实战45讲-极客时间 (geekbang.org)](https://time.geekbang.org/column/article/68319)
 
 ## redis
 
 课程
 
-- 极客时间 - redis 实战
+- 极客时间 - [Redis 核心技术与实战 (geekbang.org)](https://time.geekbang.org/column/intro/100056701)
 
 ## MQ
 
