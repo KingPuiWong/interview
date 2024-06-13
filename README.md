@@ -52,6 +52,17 @@
 书本
 
 - 计算机网络 -自顶向下方法
+
 ## 算法
 
 [代码随想录](https://programmercarl.com/)
+
+## 个人面试前需要去看到
+
+- leaf 框架
+- gin 框架
+- go-zero 框架
+- 红与黑小游戏开发流程
+- mysql \ redis \ rabbitmq
+- 项目经历
+- go 基础
