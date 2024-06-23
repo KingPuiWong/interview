@@ -1,6 +1,6 @@
 # interview
 
-##  go 语言基础
+## go 语言基础
 
 书本
 
@@ -28,7 +28,7 @@
 
 课程
 
-- 极客时间 - [01 | 基础架构：一条SQL查询语句是如何执行的？-MySQL实战45讲-极客时间 (geekbang.org)](https://time.geekbang.org/column/article/68319)
+- 极客时间 - [01 | 基础架构：一条 SQL 查询语句是如何执行的？-MySQL 实战 45 讲-极客时间 (geekbang.org)](https://time.geekbang.org/column/article/68319)
 
 ## redis
 
@@ -42,16 +42,17 @@
 
 - [Docs (feishu.cn)](https://w8f48xv1h6.feishu.cn/wiki/wikcnAJFKENsXWuBOgvgicTOEhc)
 
-
 ## 网络
 
 博客
 
-- [小林coding (xiaolincoding.com)](https://www.xiaolincoding.com/)
+- [小林 coding (xiaolincoding.com)](https://www.xiaolincoding.com/)
 
 书本
 
 - 计算机网络 -自顶向下方法
+- 图解 HTTP
+
 ## 算法
 
 [代码随想录](https://programmercarl.com/)
