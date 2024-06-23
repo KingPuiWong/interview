@@ -24,7 +24,7 @@
 
 - [与日俱进，在 Go 1.20 中这种高效转换的方式又变了 (colobu.com)](https://colobu.com/2022/09/06/string-byte-convertion/)
 
-## myql
+## mysql
 
 课程
 
