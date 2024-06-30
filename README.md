@@ -18,6 +18,7 @@
 - go 的 mutx 怎么使用，乐观锁和悲观锁怎么实现，使用场景是什么？
 - channel/ map/ slice 底层实现 / pool/ context
 - [GMP 模型](https://kiosk007.top/post/golang-gmp/)
+- [GMP 为什么要 P](https://eddycjy.com/posts/go/go-tips-gmp-p/)
 - GO 启动顺序
 
 博客：
@@ -35,6 +36,7 @@
 课程
 
 - 极客时间 - [Redis 核心技术与实战 (geekbang.org)](https://time.geekbang.org/column/intro/100056701)
+- 过期策略和淘汰策略
 
 ## MQ
 
@@ -131,12 +133,12 @@ Producer ->     Channel                       Binding                           
 
 博客
 
-- [小林 coding (xiaolincoding.com)](https://www.xiaolincoding.com/)
+- [小林 coding(感觉不适合系统学习，所以我没看这个)](https://www.xiaolincoding.com/)
 
 书本
 
-- 计算机网络 - 第七版
-- 图解 HTTP
+- 计算机网络 - 第七版 （推荐）
+- 图解 HTTP （推荐）
 - 计算机网络 -自顶向下方法
 
 思维导图
